@@ -39,23 +39,23 @@ public class Array_Liguilla {
         Octavos.add("Pachuca");
         
         p1.add(4);
-        p1.add(5);
-        p1.add(1);
-        p1.add(4);
-        p1.add(2);
-        p1.add(4);
+        p1.add(3);
         p1.add(2);
         p1.add(3);
+        p1.add(5);
+        p1.add(4);
+        p1.add(1);
+        p1.add(2);
         
         Cuartos.add("Pachuca");
         Cuartos.add("Monterrey");
         Cuartos.add("Leon");
         Cuartos.add("Toluca");
         
-        p2.add(5);
-        p2.add(6);
         p2.add(4);
         p2.add(2);
+        p2.add(8);
+        p2.add(3);
         
         Semifinal.add("Pachuca");
         Semifinal.add("Chivas");
@@ -63,7 +63,7 @@ public class Array_Liguilla {
         Semifinal.add("Cruz Azul");
         
         p3.add(2);
-        p3.add(5);
+        p3.add(7);
         p3.add(6);
         p3.add(4);
         
